@@ -8,7 +8,7 @@
 
 1. Click the [link](https://github.com/crnobog69/disspam/releases) to download the [latest release](https://github.com/crnobog69/disspam/releases).
 
-#### Or, if you prefer using Git:
+#### Or, if you prefer using Git (Linux + Windows):
 
 ```bash
 git clone https://github.com/crnobog69/disspam.git
