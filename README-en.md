@@ -4,7 +4,7 @@
 
 ### Download and Installation
 
-#### Through [GitHub](https://github.com/crnobog69/disspam/releases):
+#### Through [GitHub](https://github.com/crnobog69/disspam/releases) (Only Windows for now):
 
 1. Click the [link](https://github.com/crnobog69/disspam/releases) to download the [latest release](https://github.com/crnobog69/disspam/releases).
 
