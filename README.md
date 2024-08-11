@@ -4,7 +4,7 @@
 
 ### Презуимање и Инсталација
 
-#### Преко [GitHub-а](https://github.com/crnobog69/disspam/releases):
+#### Преко [GitHub-а](https://github.com/crnobog69/disspam/releases) (Само Windows за сада):
 
 1. Кликните на [линк](https://github.com/crnobog69/disspam/releases) за преузимање и добићете [последњу ерзију](https://github.com/crnobog69/disspam/releases).
 
