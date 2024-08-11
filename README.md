@@ -1,4 +1,5 @@
 # 🦠 | Disspam CLI! - Discord Webhook + Интервал = Спам?
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P311PGR8)
 
 ## 🚀 Инструкције за коришћење
 
@@ -22,4 +23,3 @@ cargo run
 <br>
 
 ### README in [English 🇬🇧](README-en.md).
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P311PGR8)
