@@ -1,2 +1,2 @@
-# disspam
-🦠 | Disspam CLI! Discord Webhook + Interval = Spam?
+#🦠 | Disspam CLI!
+## Discord Webhook + Interval = Spam?
