@@ -1,4 +1,5 @@
 # 🦠 | Disspam CLI! - Discord Webhook + Interval = Spam?
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P311PGR8)
 
 ## 🚀 Usage Instructions
 
