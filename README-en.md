@@ -6,7 +6,7 @@
 
 #### Through [GitHub](https://github.com/crnobog69/disspam/releases):
 
-1. Click the link to download the latest release archive.
+1. Click the [link](https://github.com/crnobog69/disspam/releases)) to download the [latest release (exe. file)}(https://github.com/crnobog69/disspam/releases)).
 
 #### Or, if you prefer using Git:
 
