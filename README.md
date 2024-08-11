@@ -6,7 +6,7 @@
 
 #### Преко [GitHub-а](https://github.com/crnobog69/disspam/releases):
 
-1. Кликните на [линк](https://github.com/crnobog69/disspam/releases) за преузимање и добићете архиву са [последњом верзијом](https://github.com/crnobog69/disspam/releases)).
+1. Кликните на [линк](https://github.com/crnobog69/disspam/releases) за преузимање и добићете [последњу ерзију](https://github.com/crnobog69/disspam/releases).
 
 #### Или, ако вам је удобније да користите Git:
 
